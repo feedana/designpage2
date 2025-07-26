@@ -362,8 +362,9 @@ h1, h2, h3, h4 { font-weight: bold; }
 /* somethng is wrong here!!!!!!!!!!!!! */
 .footer.Services{
   list-style: none;
-  padding: 0;
+  padding: 0 20px;
   justify-content: space-between;
+  display: flex;
 
 }
 .footer-bottom {
